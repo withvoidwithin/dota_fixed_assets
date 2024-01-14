@@ -14,6 +14,10 @@ Some models need serious repotologizing and at the moment I don't have enough fr
 ## Resizable Textures
 https://github.com/withvoidwithin/dota_fixed_assets/assets/92968799/1ebbf350-2fb6-483b-87a9-30914a9928bc
 
-# More Assets
+# How to use
+To use them in your project, you just need to add assets to your project in the game folder.
 
-I've made this available pack for anyone who wants it. If you need more models fixed, you can contact me and suggest which models you would like to fix. I do it for free, but if you want to support me, come to my [Boosty](https://boosty.to/withvoidwithin) :)
+_dota 2 beta/**game**/dota_addons/your_addon_name/models_
+
+# More Assets
+I've made this available pack for anyone who wants it. If you want me to fix some asset, just leave a comment [Here](https://github.com/withvoidwithin/dota_fixed_assets/issues/1). I do it for free, but if you want to support me, come to my [Boosty](https://boosty.to/withvoidwithin) :)
