@@ -3,6 +3,8 @@ Not all assets in Dota 2, are good for map design. Some textures are terrible, w
 
 I tried to fix some of the models and make them good for use in the creation of maps. These new models do not require new textures, they use old ones that are in the game itself. That's why the pack weighs not so much.
 
+Some models need serious repotologizing and at the moment I don't have enough free time to do it.
+
 ## Fixed Textures
 <a href="url"><img src="https://github.com/withvoidwithin/dota_fixed_assets/assets/92968799/51b55e6f-e4b8-446f-90de-1d5ac2af45c9" width="512" ></a>
 
